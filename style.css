@@ -1,13 +1,16 @@
 /* Reset default browser spacing */
 body {
-     margin: 0;
      font-family:Arial, sans-serif;
-     background-color: #f4f4f4;
+     color:#333
+     background-color: #f9f9f9;
+     margin: 0;
+     padding: 0;
+line-height: 1.6;
 }
 
 /*Header */
 header {
-     background-color: #0d0d0d;
+     background-color: #4CAF50;
      color: white;
      padding: 20px;
      text-align: center;
@@ -102,6 +105,7 @@ footer {
         paddig: 10px;
 
 }
+
 
 
 
